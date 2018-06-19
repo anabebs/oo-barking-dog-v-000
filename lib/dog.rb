@@ -4,8 +4,5 @@ Dog.name = fido
 fido.name ="Fido"
 end
 
-fido.name
-# => "Fido"
+
  
-fido.bark
-woof!

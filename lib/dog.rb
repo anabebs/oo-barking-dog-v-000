@@ -1,6 +1,6 @@
 # Your code goes here!
 class Dog
-"fido" = Dog.name
+fido = Dog.name
 
 end
  

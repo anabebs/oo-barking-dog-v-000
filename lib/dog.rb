@@ -2,6 +2,7 @@
 class Dog
 Dog.name = fido
 fido.name ="Fido"
+end
 
 fido.name
 # => "Fido"

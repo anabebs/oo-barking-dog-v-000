@@ -1,6 +1,5 @@
 # Your code goes here!
-class Dog
-Dog.new = fido
+fido = Dog.new
 dog.name ="Fido"
 end
 

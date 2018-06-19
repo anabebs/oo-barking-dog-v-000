@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
-fido = Dog.new("")
-dog.name ="Fido"
+fido = Dog.name("Fido")
+
 end
 end
 

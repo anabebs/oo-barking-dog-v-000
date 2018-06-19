@@ -1,5 +1,5 @@
 # Your code goes here!
-fido = Dog.new
+fido = Dog.new("")
 dog.name ="Fido"
 end
 
